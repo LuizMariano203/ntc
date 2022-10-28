@@ -1,0 +1,15 @@
+#npm
+node_modules
+pack_lock.json
+*.loh
+*.gz
+#vscode
+.ideia/
+.vscode/
+.env
+
+dist/
+
+#tpm
+tmp/uploads/*
+!tmp/uploads/.gitkeep
