@@ -1,6 +1,6 @@
 import express, { json } from "express";
 import morgan from "morgan";
-import routes from "../routes";
+import routes from "./routes";
 
 const app = express();
 
